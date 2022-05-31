@@ -1785,7 +1785,8 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		/* color: #4acaa8; */
+		color: #2b3a6b;
 		font-size: 3.5em;
 	}
 
@@ -2700,8 +2701,8 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
-		/* background: darkturquoise; */
+		/* background: #052966; */
+		background: #2b3a6b;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
