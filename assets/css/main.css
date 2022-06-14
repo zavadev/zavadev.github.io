@@ -3316,3 +3316,12 @@ input, select, textarea {
 			}
 
 	}
+
+  .project-title-class {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .project-links-class {
+    margin-bottom: 20px;
+    padding-bottom: 0;
+  }
